@@ -1,0 +1,77 @@
+h1, em {
+  color: black;
+  font-family: "Avenir Next";
+  text-align: center;
+text-align: center;
+font-size: 50px
+}
+
+h2 span {
+   color: white;
+   font: bold 24px/45px "Avenir Next";
+   letter-spacing: -1px;
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
+}
+.image {
+   position: relative;
+   padding: 5px 5px;
+   width: 100%; /* for IE 6 */
+}
+}
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+    margin-top: 9px;
+}
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: "Avenir Next";
+}
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.topnav a.active {
+    background-color: #4CAF50;
+    color: black;
+}
+h1{
+  text-align: left;
+  font-size: 50px;
+  margin-top: 5px;
+  left: 0px;
+}
+h2{
+  font-family: "Avenir Next";
+  border: 2px solid black; width: 10px
+  border-style: solid;
+  text-align: center
+}
+body{
+  background-color: white;
+  color: black;
+  font-family: "Avenir Next";
+  #list li {
+display: inline;
+margin: 10px;
+text-align: center;
+  }
+#list a {
+text-decoration: none;
+color: green;
+}
+
+#list {
+background-color: black;
+width:  300px;
+height: 25px;
+border-radius: 5px;
+}
